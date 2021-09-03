@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://krmadhukar.github.io/csb-l27vl/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://krmadhukar.github.io/csb-l27vl/static/js/main.1f71825b.chunk.js",
+    "main.js.map": "https://krmadhukar.github.io/csb-l27vl/static/js/main.1f71825b.chunk.js.map",
+    "runtime-main.js": "https://krmadhukar.github.io/csb-l27vl/static/js/runtime-main.fdfd50df.js",
+    "runtime-main.js.map": "https://krmadhukar.github.io/csb-l27vl/static/js/runtime-main.fdfd50df.js.map",
+    "static/css/2.a7397990.chunk.css": "https://krmadhukar.github.io/csb-l27vl/static/css/2.a7397990.chunk.css",
+    "static/js/2.6dc333d9.chunk.js": "https://krmadhukar.github.io/csb-l27vl/static/js/2.6dc333d9.chunk.js",
+    "static/js/2.6dc333d9.chunk.js.map": "https://krmadhukar.github.io/csb-l27vl/static/js/2.6dc333d9.chunk.js.map",
+    "index.html": "https://krmadhukar.github.io/csb-l27vl/index.html",
+    "static/css/2.a7397990.chunk.css.map": "https://krmadhukar.github.io/csb-l27vl/static/css/2.a7397990.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "https://krmadhukar.github.io/csb-l27vl/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6dc333d9.chunk.js.LICENSE.txt": "https://krmadhukar.github.io/csb-l27vl/static/js/2.6dc333d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdfd50df.js",
+    "static/css/2.a7397990.chunk.css",
+    "static/js/2.6dc333d9.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1f71825b.chunk.js"
+  ]
+}
